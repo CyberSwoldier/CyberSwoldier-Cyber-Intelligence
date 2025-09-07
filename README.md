@@ -28,4 +28,9 @@ The dashboard relies on threat_intel.py to fetch or generate the latest datasets
  1- python threat_intel.py
  2- streamlit run dashboard.py
 
+
+<img width="2658" height="1340" alt="image" src="https://github.com/user-attachments/assets/0dd77bd8-426a-443d-a0f6-ef16225481ea" />
+<img width="2644" height="1272" alt="image" src="https://github.com/user-attachments/assets/f49e4145-0819-4b58-927b-14b45b22af14" />
+
+
  
