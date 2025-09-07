@@ -4,7 +4,7 @@ It automatically refreshes the module each time you run or interact with the Str
 ⸻
 
 ⚡ Features
-	•	✅ Always fetches the latest threat_intel.py from GitHub
+	•	✅ Always fetches the latest incidents from threat_intel.py
 	•	✅ Displays the dataset as an interactive table
 	•	✅ Visualizes threats with bar and pie charts
 	•	✅ Ready to extend with new metrics and data sources
